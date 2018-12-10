@@ -1,0 +1,7 @@
+path: /mentors
+template: mentors
+context:
+  dynamic:
+    mentors: session.query(Mentor).all()
+  static:
+    header: Mentors

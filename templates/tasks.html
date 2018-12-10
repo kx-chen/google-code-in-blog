@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+
+{% block body %}
+<hr />
+{% for repo in repositories %}
+  <div class="card-body">
+    <h2 class="card-title"><a href="{{repo.link}}">{{repo.name}}</a></h2>
+    <hr/>
+    <ul>
+    {% for task in repo.tasks %}
+        <li>{{task.name}}</li>
+        Pull request: <a href="{{task.pr.link}}">#{{task.pr.id}}</a> 
+        <p> Mentors: {% for mentor in task.mentors %} {{mentor.username}} {% endfor %}</p> 
+        {% if task.thoughts %}
+        <p> {{task.thoughts}} </p>
+        {% endif %}
+        <hr/>
+    {% endfor %}
+  </div>
+ 
+ {% endfor %}
+
+{% endblock %}

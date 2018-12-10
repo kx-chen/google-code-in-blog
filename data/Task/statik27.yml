@@ -1,0 +1,7 @@
+id: 6610232319934464
+pr: statik103
+name: "statik: Issue #27: Can't have multiple foreign keys in the same document"
+mentors: 
+  - jayvdb
+organization: coala
+thoughts: Challenging, but fun. Spent a lot of time debugging and stepping through code. Learned a lot about how statik works. 

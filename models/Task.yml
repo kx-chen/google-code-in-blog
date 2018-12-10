@@ -1,0 +1,6 @@
+id: Integer
+thoughts: String
+pr: PullRequest
+name: String
+mentors: Mentor[]
+organization: Organization

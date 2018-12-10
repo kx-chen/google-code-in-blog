@@ -1,0 +1,7 @@
+id: 4531139583672320
+pr: bears2797
+name: "bears CommitBear coverage drop"
+mentors: 
+  - jayvdb
+organization: coala
+thoughts: Spent way too long debugging :P, should have just directly read the source code changes of the dependency that was causing the problem.

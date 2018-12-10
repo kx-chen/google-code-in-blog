@@ -1,0 +1,7 @@
+path: /tasks
+template: tasks
+context:
+  dynamic:
+    repositories: session.query(Repository).all()
+  static:
+    header: Tasks

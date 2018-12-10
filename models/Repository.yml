@@ -1,0 +1,3 @@
+name: String
+link: String
+tasks: Task[]

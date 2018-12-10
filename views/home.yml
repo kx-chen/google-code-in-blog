@@ -1,0 +1,7 @@
+path: /
+template: index
+context:
+  dynamic:
+    posts: session.query(Post).all()
+  static:
+    header: Posts
