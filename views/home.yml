@@ -2,6 +2,6 @@ path: /
 template: index
 context:
   dynamic:
-    posts: session.query(Post).all()
+    posts: session.query(Post).order_by(Post.id).all()
   static:
     header: Hey, I'm kx-chen. This is a blog dedicated to my adventures in Google Code-In 2018.
