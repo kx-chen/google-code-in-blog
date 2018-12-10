@@ -1,6 +1,7 @@
 {% extends 'base.html' %}
 
 {% block body %}
+<p> This year, I was able to complete 36 tasks. </p>
 {% for repo in repositories %}
   <div class="card-body">
     <h2 class="card-title"><a href="{{repo.link}}">{{repo.name}} </a> ({{repo.tasks | length}})</h2>

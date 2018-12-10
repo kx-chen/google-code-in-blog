@@ -4,4 +4,4 @@ context:
   dynamic:
     posts: session.query(Post).all()
   static:
-    header: Posts
+    header: Hey, I'm kx-chen. This is a blog dedicated to my adventures in Google Code-In 2018.
