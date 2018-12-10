@@ -1,13 +1,12 @@
 {% extends 'base.html' %}
 
 {% block body %}
-<hr />
+<hr/>
 {% for mentor in mentors %}
-  <div class="card-body">
+<div class="card-body">
     <h2 class="card-title">{{mentor.username}}</h2>
     <a href="{{ mentor.profile }}">{{ mentor.profile }}</a>
-  </div>
- 
+ </div>
  {% endfor %}
 
 {% endblock %}

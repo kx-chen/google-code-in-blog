@@ -1,10 +1,9 @@
 {% extends 'base.html' %}
 
 {% block body %}
-<hr />
 {% for repo in repositories %}
   <div class="card-body">
-    <h2 class="card-title"><a href="{{repo.link}}">{{repo.name}}</a></h2>
+    <h2 class="card-title"><a href="{{repo.link}}">{{repo.name}} </a> ({{repo.tasks | length}})</h2>
     <hr/>
     <ul>
     {% for task in repo.tasks %}
