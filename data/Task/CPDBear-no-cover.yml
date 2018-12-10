@@ -3,4 +3,6 @@ pr: CPDBear-no-cover
 name: "bears: Issue #2766: CPDBear: Remove use of generic no cover"
 mentors: 
   - jayvdb
+  - sangamcse
+  - li-boxuan
 organization: coala

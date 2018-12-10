@@ -3,4 +3,7 @@ pr: moban-sync
 name: "It's moban repo sync time!"
 mentors: 
   - jayvdb
+  - ksdme
+  - ayan-b
+  - Man-Jain
 organization: coala

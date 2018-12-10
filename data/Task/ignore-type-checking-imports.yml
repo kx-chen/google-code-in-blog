@@ -2,5 +2,6 @@ id: 5565817992249344
 pr: ignore-type-checking-imports
 name: "vulture: Issue #152: Ignore type checking imports"
 mentors: 
-  - jayvdb
+  - RJ722
+  - jendrikseipp
 organization: coala

@@ -3,4 +3,6 @@ pr: bears2794
 name: "bears: Issue #2775: VHDLLintBear: Remove use of generic no cover"
 mentors: 
   - jayvdb
+  - sangamcse
+  - Naveenaidu
 organization: coala

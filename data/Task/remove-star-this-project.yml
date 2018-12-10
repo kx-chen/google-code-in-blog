@@ -3,4 +3,6 @@ pr: remove-star-this-project
 name: "gh-board: Issue #90: Remove Star this project"
 mentors: 
   - jayvdb
+  - li-boxuan
+  - wisn
 organization: coala

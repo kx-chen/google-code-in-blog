@@ -3,4 +3,5 @@ pr: bears2795
 name: "bears: Issue #2772: LanguageToolBear: Remove use of generic no cover "
 mentors: 
   - jayvdb
+  - sangamcse
 organization: coala
