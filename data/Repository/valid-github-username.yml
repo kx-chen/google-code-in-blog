@@ -1,0 +1,5 @@
+name: andrewda/valid-github-username
+link: https://github.com/andrewda/valid-github-username/
+tasks: 
+  - add-js-tests
+  - add-hyphen-handling

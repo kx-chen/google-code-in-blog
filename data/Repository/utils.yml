@@ -1,0 +1,4 @@
+name: coala/coala-utils
+link: https://gitlab.com/coala/coala-utils/
+tasks: 
+  - implement-get-shell-type

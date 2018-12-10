@@ -1,0 +1,4 @@
+name: coala/corobo
+link: https://github.com/coala/corobo/
+tasks: 
+  - blacklist-from-somewhere-else

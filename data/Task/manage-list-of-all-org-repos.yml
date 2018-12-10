@@ -2,5 +2,7 @@ id: 6420527007662080
 pr: manage-list-of-all-org-repos
 name: "org-status: Issue #6: Manage a machine consumable list of all org repositories"
 mentors: 
+  - ksdme
   - jayvdb
 organization: coala
+thoughts: Excellent experience working with GitMan and outputting yaml. It was incredibly satisfying to get it working.

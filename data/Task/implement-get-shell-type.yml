@@ -1,0 +1,6 @@
+id: 6263541200846848
+pr: implement-get-shell-type
+name: "utils: Issue #31: Implement get_shell_type with tests"
+mentors: 
+  - jayvdb
+organization: coala

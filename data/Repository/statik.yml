@@ -5,3 +5,5 @@ tasks:
   - statik54
   - statik72
   - deploy-to-netlify
+  - warn-of-duplicates-in-array
+  - add-appveyor

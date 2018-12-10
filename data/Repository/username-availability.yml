@@ -1,0 +1,8 @@
+name: manu-chroma/username-availability-checker
+link: https://github.com/manu-chroma/username-availability-checker/
+tasks:
+  - fix-css-styling
+  - username-generator
+  - get-icon-externally
+  - wikimedia-support
+  - gravatar-support

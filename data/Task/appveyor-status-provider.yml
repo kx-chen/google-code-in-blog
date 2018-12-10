@@ -1,0 +1,7 @@
+id: 6413532116549632
+pr: appveyor-status-provider
+name: "org-status: Issue #12: Add Appveyor status provider"
+mentors: 
+  - jayvdb
+  - ksdme
+organization: coala

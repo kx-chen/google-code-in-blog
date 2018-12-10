@@ -1,0 +1,6 @@
+id: 6734158538735616
+pr: detect-github-down
+name: "org-status: Issue #3: Detect when GitHub is down"
+mentors: 
+  - ksdme
+organization: coala

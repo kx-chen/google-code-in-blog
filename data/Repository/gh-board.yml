@@ -1,0 +1,4 @@
+name: coala/gh-board
+link: https://github.com/coala/gh-board/
+tasks:
+  - remove-star-this-project

@@ -1,0 +1,6 @@
+id: 5547978107387904
+pr: add-appveyor
+name: "statik: Issue #83: Add Windows support and AppVeyor CI"
+mentors: 
+  - jayvdb
+organization: coala

@@ -2,3 +2,7 @@ name: ksdme/org-status
 link: https://github.com/ksdme/org-status/
 tasks: 
   - manage-list-of-all-org-repos
+  - add-tests
+  - detect-github-down
+  - detect-gitlab-down-cli-support-for-skip-and-check
+  - appveyor-status-provider

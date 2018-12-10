@@ -1,0 +1,7 @@
+id: 5891503604891648
+pr: get-badge-for-branch
+name: "trav: Issue #3: Add a helper to get badge for a branch"
+mentors: 
+  - andrewda
+  - ksdme
+organization: coala

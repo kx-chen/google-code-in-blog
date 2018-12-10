@@ -2,3 +2,4 @@ name: coala/community
 link: https://github.com/coala/community
 tasks: 
   - moban-sync
+  - openhub-token-warning

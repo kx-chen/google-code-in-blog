@@ -1,0 +1,6 @@
+id: 6203529153740800
+pr: detect-gitlab-down-cli-support-for-skip-and-check
+name: "org-status: Issue #5: Detect when GitLab is down"
+mentors: 
+  - ksdme
+organization: coala

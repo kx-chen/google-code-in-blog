@@ -1,0 +1,6 @@
+id: 4699819575607296
+pr: warn-of-duplicates-in-array
+name: "statik: Issue #81: Warn of duplicates in arrays"
+mentors: 
+  - jayvdb
+organization: coala
