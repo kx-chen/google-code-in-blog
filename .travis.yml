@@ -1,0 +1,13 @@
+language: python
+stages:
+  - name: deploy
+
+jobs:
+  include:
+    - stage: deploy
+      python: 3.6
+      script: "statik --upload=netlify --netlify-site-id=$NETLIFY_SITE_ID"
+
+install:
+  - "pip install git+https://github.com/kx-chen/netlify_deployer.git"
+  - "pip install git+https://github.com/thanethomson/statik.git"
