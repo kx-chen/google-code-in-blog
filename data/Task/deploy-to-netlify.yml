@@ -1,0 +1,7 @@
+id: 5738810919878656
+pr: deploy-to-netlify
+name: "statik: Issue #82: Deploy to Netlify"
+mentors: 
+  - jayvdb
+  - andrewda
+organization: coala

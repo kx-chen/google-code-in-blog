@@ -1,0 +1,6 @@
+id: 6086489428459520
+pr: describe-experimental
+name: "autopep8: Issue #282: Describe --experimental option"
+mentors: 
+  - jayvdb
+organization: coala
