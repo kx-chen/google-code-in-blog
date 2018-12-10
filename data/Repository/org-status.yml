@@ -1,0 +1,4 @@
+name: ksdme/org-status
+link: https://github.com/ksdme/org-status/
+tasks: 
+  - manage-list-of-all-org-repos

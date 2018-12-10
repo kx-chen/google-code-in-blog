@@ -1,0 +1,4 @@
+name: jendrikseipp/vulture
+link: https://github.com/jendrikseipp/vulture/
+tasks: 
+  - ignore-type-checking-imports
