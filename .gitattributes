@@ -1,0 +1,3 @@
+assets/bootstrap/* linguist-vendored=true
+assets/vendor/* linguist-vendored=true
+public/assets/* linguist-vendored=true
