@@ -4,3 +4,4 @@ tasks:
   - statik27
   - statik54
   - statik72
+  - deploy-to-netlify
